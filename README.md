@@ -11,4 +11,5 @@ Calendario de citas: Incorpora un calendario donde las parejas puedan programar 
 
 APPS SIMILARES
 *THE COUPLE
+
 Esta app cuenta con la opción de crear un chat privado, es decir, un rinconcito exclusivo para mensajearnos con nuestra pareja. También es posible organizar citas, excursiones o dejar recados para que la otra persona los lea en cuanto entre a la aplicación.
